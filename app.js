@@ -106,6 +106,6 @@ app.post('/uploads', function (req, res, next) {
     });
 });
 
-app.listen(3003, function () {
-    console.log("Working on port 3003");
+app.listen(3333, function () {
+    console.log("Working on port 3333");
 });

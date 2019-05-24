@@ -7,6 +7,7 @@
     "git": "https://github.com/stahlmanDesign/node-express-multer-image-upload"
   },
   "scripts": {
+    "start":"node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Justin Stahlman <jstahlman@mac.com> (http://www.stahlmandesign.com)",
